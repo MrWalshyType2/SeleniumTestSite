@@ -1,0 +1,30 @@
+[
+    {
+        "username": "bobby123",
+        "forename": "Bob",
+        "surname": "Smith",
+        "age": 42,
+        "email": "bobby123@mail.com"
+    },
+    {
+        "username": "freddy123",
+        "forename": "Fred",
+        "surname": "Cooper",
+        "age": 34,
+        "email": "freddy123@mail.com"
+    },
+    {
+        "username": "ali123",
+        "forename": "Alicia",
+        "surname": "Gregson",
+        "age": 34,
+        "email": "freddy123@mail.com"
+    },
+    {
+        "username": "theo123",
+        "forename": "Theodore",
+        "surname": "Cooper",
+        "age": 70,
+        "email": "freddy123@mail.com"
+    }
+]
